@@ -2,8 +2,7 @@
 
 - 🔭 I am currently working on a **Web application in React, Redux, TypeScript**
 - 🌱 I’m currently learning **TanStack Query, Next JS, Node JS, Vue, Solidity**
-- 📫 How to reach me: **efimjsx@bk.ru**
-- :mailbox:[![Telegram Badge](https://img.shields.io/badge/-Efim_Iulovskii?style=flat&logo=Telegram&logoColor=white)](https://t.me/Efim_iulovskii) 
+- 📫 How to reach me: **efimjsx@bk.ru** telegram: [![Telegram Badge](https://img.shields.io/badge/-Efim_Iulovskii-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Efim_iulovskii) 
 
 
 <p align="center">
