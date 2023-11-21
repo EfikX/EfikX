@@ -1,13 +1,14 @@
 ### Hi there 👋
 
 - 🔭 I am currently working on a **Web application in React, Redux, TypeScript**
-- 🌱 I’m currently learning in free time **TanStack Query, Next JS, Node JS, Vue,**
+- 🌱 I’m currently learning in free time **TanStack Query, Next JS, Node JS, Vue**
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-## About Me
+
+<!-- ###  ## About Me 
 
 My main stack: **JavaScript, TypeScript, React, Redux, Redux-toolkit.**
 My name is Efim I am a Frontend developer with 3 years of experience.
@@ -19,10 +20,12 @@ My name is Efim I am a Frontend developer with 3 years of experience.
 • Passionate about soccer and actively involved in the sport.
 • Create my own music. This hobby helps cultivate creativity, which is reflected in my approach to programming.
 
+--- -->
+
 ## 🌐 Socials:
 
 - 📫 Email: **efimjsx@bk.ru**
-- 📫 Telegram: [![Telegram Badge](https://img.shields.io/badge/-Efim_Iulovskii-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Efim_iulovskii)
+- [![Telegram Badge](https://img.shields.io/badge/-Efim_Iulovskii-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Efim_iulovskii)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_efimson_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/efim-iulovskii)
 
 # 💻 Tech Stack:
