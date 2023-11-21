@@ -8,7 +8,7 @@
 </p>
 
 
-<!-- ###  ## About Me 
+<!-- ### About Me 
 
 My main stack: **JavaScript, TypeScript, React, Redux, Redux-toolkit.**
 My name is Efim I am a Frontend developer with 3 years of experience.
