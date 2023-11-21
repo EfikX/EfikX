@@ -1,24 +1,29 @@
 ### Hi there 👋
 
 - 🔭 I am currently working on a **Web application in React, Redux, TypeScript**
-- 🌱 I’m currently learning **TanStack Query, Next JS, Node JS, Vue, Solidity**
-- 📫 How to reach me: **efimjsx@bk.ru** 
-- 📫 My Telegram: [![Telegram Badge](https://img.shields.io/badge/-Efim_Iulovskii-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Efim_iulovskii) 
-
+- 🌱 I’m currently learning in free time **TanStack Query, Next JS, Node JS, Vue,**
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-
 ## About Me
 
-My name is Efim I am a Frontend developer with a degree in aerospace university in engineering and computer graphics and 3 years of experience as a Frontend developer.
 My main stack: **JavaScript, TypeScript, React, Redux, Redux-toolkit.**
+My name is Efim I am a Frontend developer with 3 years of experience.
+• Skills in developing modern web applications using JavaScript (TypeScript) and the React library.
+• Proficient in working with the Redux library and Redux Toolkit.
+• Experience with backend development and creating server applications, understanding the interactions with the frontend.
+• Experience includes working with databases.
+• Actively engaged in self-education in the field of programming, always open to new technologies!
+• Passionate about soccer and actively involved in the sport.
+• Create my own music. This hobby helps cultivate creativity, which is reflected in my approach to programming.
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_efimson_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/efim-iulovskii)
+- 📫 Email: **efimjsx@bk.ru**
+- 📫 Telegram: [![Telegram Badge](https://img.shields.io/badge/-Efim_Iulovskii-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Efim_iulovskii)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_efimson_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/efim-iulovskii)
 
 # 💻 Tech Stack:
 
@@ -28,9 +33,6 @@ My main stack: **JavaScript, TypeScript, React, Redux, Redux-toolkit.**
 
 <table>
   <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=EfikX&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
     <td>
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EfikX&layout=compact&theme=vision-friendly-dark" />
     </td>
