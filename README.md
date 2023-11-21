@@ -2,13 +2,13 @@
 
 - 🔭 I am currently working on a **Web application in React, Redux, TypeScript**
 - 🌱 I’m currently learning **TanStack Query, Next JS, Node JS, Vue, Solidity**
-- 📫 How to reach me: **efimjsx@bk.ru** telegram: [![Telegram Badge](https://img.shields.io/badge/-Efim_Iulovskii-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Efim_iulovskii) 
+- 📫 How to reach me: **efimjsx@bk.ru** 
+- 📫 My Telegram: [![Telegram Badge](https://img.shields.io/badge/-Efim_Iulovskii-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Efim_iulovskii) 
 
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
-
 
 
 ## About Me
@@ -26,10 +26,15 @@ My main stack: **JavaScript, TypeScript, React, Redux, Redux-toolkit.**
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EfikX&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=EfikX&icon=0&color=0)](https://visitcount.itsvg.in)
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=EfikX&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EfikX&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
