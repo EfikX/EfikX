@@ -1,16 +1,17 @@
+<p align="center">
+ <img width="800" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 ### Hi there 👋
 
 - 🔭 I am currently working on a **Web application in React, Redux, TypeScript**
 - 🌱 I’m currently learning in free time **TanStack Query, Next JS, Node JS, Vue**
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
 ### About Me
 
-My main stack: **JavaScript, TypeScript, React, Redux, Redux-toolkit.**
 My name is Efim I am a Frontend developer with 3 years of experience.
+
+My main stack: **JavaScript, TypeScript, React, Redux, Redux-toolkit.**
 
 • Skills in developing modern web applications using JavaScript (TypeScript) and the React library.
 
@@ -41,7 +42,7 @@ My name is Efim I am a Frontend developer with 3 years of experience.
 <table>
   <tr>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EfikX&layout=compact&theme=vision-friendly-dark" />
+      <img height="150px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EfikX&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>
