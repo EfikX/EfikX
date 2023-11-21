@@ -24,7 +24,7 @@ My main stack: **JavaScript, TypeScript, React, Redux, Redux-toolkit.**
 <table>
   <tr>
     <td>
-      <img height="210px" width="800" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EfikX&layout=compact&theme=vision-friendly-dark" />
+      <img height="100px" width="800" align="center" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EfikX&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>
