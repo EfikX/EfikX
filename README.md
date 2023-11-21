@@ -2,13 +2,13 @@
  <img width="800" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-### Hi there 👋
+# Hi there 👋
 
 My name is Efim I am a Frontend developer with 3 years of experience.
 
 My main stack: **JavaScript, TypeScript, React, Redux, Redux-toolkit.**
 
-### About Me
+# About Me
 
 • Skills in developing modern web applications using JavaScript (TypeScript) and the React library.
 
@@ -24,7 +24,7 @@ My main stack: **JavaScript, TypeScript, React, Redux, Redux-toolkit.**
 
 • Create my own music. This hobby helps cultivate creativity, which is reflected in my approach to programming.
 
-## 🌐 Socials:
+# 🌐 Socials:
 
 - 📫 Email: **efimjsx@bk.ru**
 - [![Telegram Badge](https://img.shields.io/badge/-Efim_Iulovskii-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Efim_iulovskii)
