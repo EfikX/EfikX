@@ -7,11 +7,11 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-
-<!-- ### About Me 
+### About Me
 
 My main stack: **JavaScript, TypeScript, React, Redux, Redux-toolkit.**
 My name is Efim I am a Frontend developer with 3 years of experience.
+
 • Skills in developing modern web applications using JavaScript (TypeScript) and the React library.
 • Proficient in working with the Redux library and Redux Toolkit.
 • Experience with backend development and creating server applications, understanding the interactions with the frontend.
@@ -19,8 +19,6 @@ My name is Efim I am a Frontend developer with 3 years of experience.
 • Actively engaged in self-education in the field of programming, always open to new technologies!
 • Passionate about soccer and actively involved in the sport.
 • Create my own music. This hobby helps cultivate creativity, which is reflected in my approach to programming.
-
---- -->
 
 ## 🌐 Socials:
 
