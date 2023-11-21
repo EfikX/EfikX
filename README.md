@@ -1,31 +1,18 @@
+# Hi there 👋
+My name is Efim I am a Frontend developer with 3 years of experience.
+My main stack: **JavaScript, TypeScript, React, Redux, Redux-toolkit.**
+# About Me
+• Skills in developing modern web applications using JavaScript (TypeScript) and the React library.
+• Proficient in working with the Redux library and Redux Toolkit.
+• Experience with backend development and creating server applications, understanding the interactions with the frontend.
+• Experience includes working with databases.
+• I’m currently learning in free time **TanStack Query, Next JS, Vue**!
+• Passionate about soccer and actively involved in the sport.
+• Create my own music. This hobby helps cultivate creativity, which is reflected in my approach to programming.
 <p align="center">
  <img width="800" src="assets/github-snake.svg" alt="snake"/>
 </p>
-
-# Hi there 👋
-
-My name is Efim I am a Frontend developer with 3 years of experience.
-
-My main stack: **JavaScript, TypeScript, React, Redux, Redux-toolkit.**
-
-# About Me
-
-• Skills in developing modern web applications using JavaScript (TypeScript) and the React library.
-
-• Proficient in working with the Redux library and Redux Toolkit.
-
-• Experience with backend development and creating server applications, understanding the interactions with the frontend.
-
-• Experience includes working with databases.
-
-• I’m currently learning in free time **TanStack Query, Next JS, Vue**!
-
-• Passionate about soccer and actively involved in the sport.
-
-• Create my own music. This hobby helps cultivate creativity, which is reflected in my approach to programming.
-
 # 🌐 Socials:
-
 - 📫 Email: **efimjsx@bk.ru**
 - [![Telegram Badge](https://img.shields.io/badge/-Efim_Iulovskii-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Efim_iulovskii)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_efimson_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/efim-iulovskii)
