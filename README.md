@@ -4,14 +4,11 @@
 
 ### Hi there 👋
 
-- 🔭 I am currently working on a **Web application in React, Redux, TypeScript**
-- 🌱 I’m currently learning in free time **TanStack Query, Next JS, Node JS, Vue**
-
-### About Me
-
 My name is Efim I am a Frontend developer with 3 years of experience.
 
 My main stack: **JavaScript, TypeScript, React, Redux, Redux-toolkit.**
+
+### About Me
 
 • Skills in developing modern web applications using JavaScript (TypeScript) and the React library.
 
@@ -21,7 +18,7 @@ My main stack: **JavaScript, TypeScript, React, Redux, Redux-toolkit.**
 
 • Experience includes working with databases.
 
-• Actively engaged in self-education in the field of programming, always open to new technologies!
+• I’m currently learning in free time **TanStack Query, Next JS, Vue**!
 
 • Passionate about soccer and actively involved in the sport.
 
@@ -42,7 +39,7 @@ My main stack: **JavaScript, TypeScript, React, Redux, Redux-toolkit.**
 <table>
   <tr>
     <td>
-      <img height="150px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EfikX&layout=compact&theme=vision-friendly-dark" />
+      <img height="180px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EfikX&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>
